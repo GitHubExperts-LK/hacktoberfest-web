@@ -11,6 +11,9 @@ const Banner = (): JSX.Element => {
       </div>
       <div className="h-screen flex justify-center items-center absolute left-0 top-0">
         <div className="w-11/12 sm:w-3/4 lg:w-1/2 ">
+          <div className="w-full text-7xl font-semibold text-red-dark text-center px-10">
+            Open Hack Day Sri Lanka
+          </div>
           <img src="/hacktoberfest-web/Hacktoberfest_final_2color-06 copy.png" alt={"hacktoberfest logo"} />
           <div className="w-full text-xl font-semibold text-red-dark text-center px-10">
             Open source is changing the world – one contribution at a time.
